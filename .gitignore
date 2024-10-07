@@ -5,8 +5,8 @@ __*
 # etc.
 output.png
 
-# OVER 100MB
-train.csv
+# OVER 100MB: Need Git Large File Storage (LFS)
+train*.csv
 
 ########################################
 # Mac OS finder
