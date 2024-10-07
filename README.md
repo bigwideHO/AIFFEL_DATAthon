@@ -1,6 +1,7 @@
 # AIFFEL 9기 DATAthon
 
 ## 목차
+
 - [AIFFEL 9기 DATAthon](#aiffel-9기-datathon)
   - [목차](#목차)
   - [팀 정보](#팀-정보)
